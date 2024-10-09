@@ -8,7 +8,8 @@ Intercepted the login request and replaced the e-mail address with a SQL injkect
 
 <img width="982" alt="3" src="https://github.com/user-attachments/assets/e8dbd84a-5be3-4e89-9450-f9d5c9b2616c">
 
-## Brute force administrator password
+## Brute-force administrator password
+Used a common password list from SecLists as the payload to perform a brute-force attack on the administrator login password.
 <img width="1342" alt="4" src="https://github.com/user-attachments/assets/9323bd9a-5dfb-486c-ba4d-44f0e0752fc7">
 
 <img width="1407" alt="5" src="https://github.com/user-attachments/assets/519d35fb-ff26-4b38-b639-e4a0bf07551a">
