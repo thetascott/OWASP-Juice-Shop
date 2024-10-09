@@ -1,6 +1,7 @@
 # OWASP Juice Shop Ethical Hacking
 
 ## Login as administrator using SQL injection
+Intercepted the login request and replaced the e-mail address with a SQL injkection to login as the administrator without the password.
 <img width="982" alt="1" src="https://github.com/user-attachments/assets/02df04d7-f217-4df5-9fbc-1cac7c4abf5c">
 
 <img width="1310" alt="2" src="https://github.com/user-attachments/assets/04497bc1-bf15-4a3f-9bf0-3993b84fd7aa">
