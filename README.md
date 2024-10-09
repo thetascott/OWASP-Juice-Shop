@@ -15,4 +15,5 @@ Used a common password list from SecLists as the payload to perform a brute-forc
 <img width="1407" alt="5" src="https://github.com/user-attachments/assets/519d35fb-ff26-4b38-b639-e4a0bf07551a">
 
 ## Database schema exfiltration
+Used the UNION keyword to combine the Products and sqlite_master tables, allowing the extraction of the database schema.
 <img width="1703" alt="6" src="https://github.com/user-attachments/assets/e0d883c8-d110-41f4-96c8-4be25ac32924">
